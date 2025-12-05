@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "abf7",
+      "title": "Nuevo todo como prueba",
+      "completed": false
+    },
+    {
+      "id": "fb82",
+      "title": "recordatorio",
+      "completed": false
+    }
+  ]
+}
